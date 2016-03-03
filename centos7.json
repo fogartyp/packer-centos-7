@@ -9,8 +9,8 @@
       "type": "ansible-local",
       "playbook_file": "ansible/main.yml",
       "role_paths": [
-        "C:/git/ansible/roles/ansible-role-packer-rhel",
-        "C:/git/ansible/roles/ansible-role-nfs"
+        "C:/git/ansible-role-packer-rhel",
+        "C:/git/ansible-role-nfs"
       ]
     }
   ],
